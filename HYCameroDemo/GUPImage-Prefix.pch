@@ -1,0 +1,17 @@
+//
+//  GUPImage-Prefix.pch
+//  HYCameroDemo
+//
+//  Created by chy on 16/12/19.
+//  Copyright © 2016年 Chy. All rights reserved.
+//
+
+#ifndef GUPImage_Prefix_pch
+#define GUPImage_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* GUPImage_Prefix_pch */
+
+#import "GPUImage.h"
